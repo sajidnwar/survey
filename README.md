@@ -1,2 +1,2 @@
-# survey
+# Survey
 Spring boot project without JPA
